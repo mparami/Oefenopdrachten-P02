@@ -3,3 +3,10 @@ th,
 td {
 	border: 1px solid gray;
 }
+
+.card {
+	border: 2px solid gray;
+	padding: 4px;
+	background-color: azure;
+	width: 300px;
+}
